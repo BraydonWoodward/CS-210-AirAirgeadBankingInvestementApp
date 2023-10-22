@@ -12,4 +12,9 @@
   There could also be more detailed exceptions added to the try/catch in main. As the program is simple, I dont believe any issues to arise from this, but it would be a good idea in future iterations to help with debugging. 
   Lasty, it's possible the input validation in the readDataInput method could be written simplier. All of the do/while loops in that method are my least favorite part of the code. 
 
-  The most difficult part was getting the calculations to be correct. It took me too long to realize the logical mistake I was making dividing a float by an integer value. 
+  The most difficult part of building this program was getting the calculations to be correct. It took me too long to realize the logical mistake I was making dividing a float by an integer value. Websites like StacksOverflow
+  and GeeksforGeeks have been bookmarked on my browser.
+
+  Learning the safe way to instantiate class objects with make_unique will be valuable in future programs. Also, working with pointers will be invaluable experience to help me in the future.
+
+  

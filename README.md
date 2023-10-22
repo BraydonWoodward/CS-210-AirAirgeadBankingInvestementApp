@@ -15,6 +15,9 @@
   The most difficult part of building this program was getting the calculations to be correct. It took me too long to realize the logical mistake I was making dividing a float by an integer value. Websites like StacksOverflow
   and GeeksforGeeks have been bookmarked on my browser.
 
-  Learning the safe way to instantiate class objects with make_unique will be valuable in future programs. Also, working with pointers will be invaluable experience to help me in the future.
+  Learning the safe way to instantiate class objects with make_unique will be valuable in future programs. Also, working with pointers will be invaluable experience to help me in the future. 
+
+  This program has an easy to read and follow main file. All of the methods and variables are stored in an investment class, and all methods and variables are defined in a header file. This, paired with appropriate in-line comments makes 
+  this code easy to read, maintain, and adapt.
 
   
